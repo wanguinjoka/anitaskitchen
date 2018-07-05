@@ -1,0 +1,8 @@
+body{
+  height: 95vh;
+  widgth: 100%;
+  }
+.jumbotron jumbotron-fliuid{
+  background-image: url("images/assets/backgrounds/landing.jpg");
+  object-fit: contain;
+}
