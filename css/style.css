@@ -5,6 +5,10 @@ body {
 .jumbotron{
   background-image: url("../assets/landing.jpg");
   text-align: center;
-  text-decoration-color: white;
+  color: white;
   margin: 0
+}
+#party hour{
+  background-color: orange;
+  
 }
