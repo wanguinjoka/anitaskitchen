@@ -61,36 +61,29 @@ body {
 .jumbotron1{
   background-image: url("../assets/foodsBg.jpg");
   align-content: center;
-  background-attachment: cover;
+  background-size: cover;
   height: 500px;
-}
+  width:100%;
+  margin: 0;
 
-#beefburger{
-  padding: 50px;
 }
 .container4{
-  margin-top: 20px;
-  padding:150px 150px;
-  background-color: white;
- text-align: center;
- border-top: show;
- border-left: show;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 70px;
+  padding-top: 70px;
+
 }
+
 .section5{
-      padding-left: 150px;
-      padding-right: 150px;
+      padding-left: 100px;
+      padding-right: 100px;
       padding-bottom: 70px;
       padding-top: 70px;
 }
 .section6{
-  background-image: url("../assets/subscribe.jpg");
-  align-content: center;
-  background-attachment: cover;
-  }
-.container1{
-
-}
-
-}
-
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 70px;
+  padding-top: 70px;
 }
