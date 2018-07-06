@@ -7,8 +7,32 @@ body {
   text-align: center;
   color: white;
   margin: 0
+
+#pa
 }
-#party hour{
-  background-color: orange;
+#breakfast{
+  color: white;
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  text-align: center;
+  background-size: cover;
+
+
+}
+#lunch{
+  background-image: url("../assets/foodtop/lunch.jpg");
+  background-size: cover;
+  text-align:center;
+  color: white;
+}
+#dinner{
+  background-image: url("../assets/foodtop/dinner.jpg");
+ background-size: cover;
+ text-align:center;
+ color: white;
+}
+.card-img-top{
+  image: url("..assets/fastfood2.jpg");
+}
+.card-img-bottom{
   
 }
