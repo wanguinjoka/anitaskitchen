@@ -42,7 +42,15 @@ body {
   background-image: url("../assets/foodsBg.jpg");
   align-content: center;
   background-attachment: cover;
+  height: 550px
 }
 #beefburger{
-  padding: 50px
+  padding: 50px;
+}
+.container{
+  padding:25px 25px;
+  background-color: white;
+ text-align: center;
+}
+
 }
