@@ -86,4 +86,17 @@ body {
   padding-right: 100px;
   padding-bottom: 70px;
   padding-top: 70px;
-}
+  }
+  .section7{
+      background-image: url("../assets/subscribe.jpg");
+      background-size: cover;
+      padding-top: 60px;
+      padding-left: 400px;
+      color: white;
+  }
+.section8{
+    background-color: #F15A29;
+    color: white;
+    padding-left: 0px;
+    text-align: center;
+  }
