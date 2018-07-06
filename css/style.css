@@ -6,17 +6,28 @@ body {
   background-image: url("../assets/landing.jpg");
   text-align: center;
   color: white;
-  margin: 0
-
-#pa
+  margin: 0;
 }
+#happyHour {
+      padding-top: 55px;
+      padding-bottom: 58px;
+      text-align: center;
+      color: black;
+      font-size: 15px;
+  }
+
+#partyTime {
+      padding-top: 55px;
+      padding-bottom: 58px;
+      text-align: center;
+      background-color: #F15A29;
+      font-size: 15px;
+  }
 #breakfast{
   color: white;
   background-image: url("../assets/foodtop/breakfast.jpg");
   text-align: center;
   background-size: cover;
-
-
 }
 #lunch{
   background-image: url("../assets/foodtop/lunch.jpg");
@@ -30,27 +41,56 @@ body {
  text-align:center;
  color: white;
 }
-.section2{
-  width:100%;
-  height:100px;
+.section3 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    padding-top: 70px;
 }
-.section3{
-  padding: 100px 100px;
-  height: 500px;
+.section4 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+  }
+.container2{
+  background-color: white;
+ text-align: center;
+
 }
 .jumbotron1{
   background-image: url("../assets/foodsBg.jpg");
   align-content: center;
   background-attachment: cover;
-  height: 550px
+  height: 500px;
 }
+
 #beefburger{
   padding: 50px;
 }
-.container{
-  padding:25px 25px;
+.container4{
+  margin-top: 20px;
+  padding:150px 150px;
   background-color: white;
  text-align: center;
+ border-top: show;
+ border-left: show;
+}
+.section5{
+      padding-left: 150px;
+      padding-right: 150px;
+      padding-bottom: 70px;
+      padding-top: 70px;
+}
+.section6{
+  background-image: url("../assets/subscribe.jpg");
+  align-content: center;
+  background-attachment: cover;
+  }
+.container1{
+
+}
+
 }
 
 }
