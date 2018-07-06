@@ -30,9 +30,9 @@ body {
  text-align:center;
  color: white;
 }
-.card-img-top{
-  image: url("..assets/fastfood2.jpg");
+.card{
+  margin: 2px, 20px
+
 }
-.card-img-bottom{
-  
+
 }
